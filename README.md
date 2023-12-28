@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Seruanoo
 - 👀 I’m interested in back-end Developing
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript.HTML and CSS
 - 📫 How to reach me beratustunwork@gmail.com or beratustun35@gmail.com
 
 <!---
