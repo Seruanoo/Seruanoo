@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Seruanoo
 - 👀 I’m interested in full-stack developing
-- 🌱 I’m currently learning JavaScript.HTML and CSS
+- 🌱 I’m currently learning JavaScript,HTML and CSS
 - 📫 How to reach me beratustunwork@gmail.com or beratustun35@gmail.com
 
 <!---
